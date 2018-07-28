@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>David Dai blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dai08170.000webhostapp.com/"/>
-  <updated>2018-07-28T13:52:58.066Z</updated>
+  <updated>2018-07-28T14:16:04.198Z</updated>
   <id>http://dai08170.000webhostapp.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>David Dai</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://dai08170.000webhostapp.com/28/07/2018/THE-8-TRILLION-GLOBAL-INFORMATION-TECHNOLOGY-IT-INDUSTRY/"/>
     <id>http://dai08170.000webhostapp.com/28/07/2018/THE-8-TRILLION-GLOBAL-INFORMATION-TECHNOLOGY-IT-INDUSTRY/</id>
     <published>2018-07-28T13:49:07.000Z</published>
-    <updated>2018-07-28T13:52:58.066Z</updated>
+    <updated>2018-07-28T14:16:04.198Z</updated>
     
     <content type="html"><![CDATA[<p>The global information technology industry surpassed $4.5 trillion in 2017, according to the research consultancy IDC. If growth expectations materialize in the year ahead, spending will eclipse the $4.8 trillion mark.</p><p>The United States is the largest tech market in the world, representing 31% of the total, or approximately $1.5 trillion for 2018. In the U.S., as well as in many other countries, the tech sector is one of the most significant contributors to GDP. See CompTIA’s Cyberstates report for more detailed economic impact analysis.</p><p>In the aggregate, the Asia-Pacific region, which encompasses Japan, China, Australia, India, and surrounding countries, accounts for one-third of the total. APEC has increased its share of the global IT pie, driven by the rise of countries such as China and India, and the slower growth rates experienced in parts of Europe and other markets. By 2032, China is projected to claim the mantle of world’s largest economy.—–<a href="https://www.comptia.org/resources/it-industry-trends-analysis" target="_blank" rel="noopener">Comptia</a></p>]]></content>
     
@@ -35,6 +35,8 @@
     </summary>
     
     
+      <category term="tags" scheme="http://dai08170.000webhostapp.com/tags/tags/"/>
+    
   </entry>
   
   <entry>
@@ -42,7 +44,7 @@
     <link href="http://dai08170.000webhostapp.com/28/07/2018/hello-world/"/>
     <id>http://dai08170.000webhostapp.com/28/07/2018/hello-world/</id>
     <published>2018-07-28T13:35:35.349Z</published>
-    <updated>2018-07-28T13:35:35.349Z</updated>
+    <updated>2018-07-28T14:02:54.112Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
